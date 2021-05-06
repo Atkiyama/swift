@@ -2,5 +2,10 @@
 <Timeline
    version = "3.0">
    <TimelineItems>
+      <LoggerValueHistoryTimelineItem
+         documentLocation = "file:///Users/akiyama/OneDrive%20-%20%E8%BF%91%E7%95%BF%E5%A4%A7%E5%AD%A6/ios%E5%8B%89%E5%BC%B7%E4%BC%9A/swift/MyPlayground.playground#CharacterRangeLen=25&amp;CharacterRangeLoc=48&amp;EndingColumnNumber=11&amp;EndingLineNumber=4&amp;StartingColumnNumber=34&amp;StartingLineNumber=2&amp;Timestamp=641982331.182045"
+         selectedRepresentationIndex = "0"
+         shouldTrackSuperviewWidth = "NO">
+      </LoggerValueHistoryTimelineItem>
    </TimelineItems>
 </Timeline>
