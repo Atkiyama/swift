@@ -1,8 +1,8 @@
 //
 //  SceneDelegate.swift
-//  Light
+//  CommonInputControls
 //
-//  Created by akiyama on 2021/05/27.
+//  Created by akiyama on 2021/06/17.
 //
 
 import UIKit
